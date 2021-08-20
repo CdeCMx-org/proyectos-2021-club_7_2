@@ -4,6 +4,9 @@
 
 ### <img src="https://img.icons8.com/bubbles/2x/ffffff/visible--v2.png" alt="drawing" width="30"/> Introducción
 
+La obesidad es una enfermedad multifactorial, que es influenciada por el estilo de vida, factores ambientales, y genéticos. Representa un problema de salud pública a nivel mundial, existen 500 millones de adultos en el mundo con obesidad; en México, las estadísticas tampoco son alentadoras. La obesidad en la infancia, predispone al desarrollo de diferentes enfermedades cardiovasculares, nos enfrentamos a enfermedades como la hipertensión arterial, diabetes, lesiones articulares y un deterioro general de la calidad de vida. Sin embargo, la obesidad es una condición modificable, podemos prevenirla de muchas maneras y en este proyecto buscamos estudarla desde el punto de vista genético, empleando recursos de programación, interpretación de redes y biología computacional. Para poder prevenirla, hay que entenderla.
+
+
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
 * ¿porqué es importante?
