@@ -7,9 +7,6 @@
 La obesidad es una enfermedad multifactorial, que es influenciada por el estilo de vida, factores ambientales, y genéticos. Representa un problema de salud pública a nivel mundial, existen 500 millones de adultos en el mundo con obesidad; en México, las estadísticas tampoco son alentadoras. La obesidad en la infancia, predispone al desarrollo de diferentes enfermedades cardiovasculares, nos enfrentamos a enfermedades como la hipertensión arterial, diabetes, lesiones articulares y un deterioro general de la calidad de vida. Sin embargo, la obesidad es una condición modificable, podemos prevenirla de muchas maneras y en este proyecto buscamos estudarla desde el punto de vista genético, empleando recursos de programación, interpretación de redes y biología computacional. Para poder prevenirla, hay que entenderla.
 
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
 * ¿cómo se relaciona con la **ODS** asignada a tu club? 
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
@@ -18,15 +15,10 @@ Describe de qué trata tu proyecto:
 ### <img src="https://image.flaticon.com/icons/png/512/190/190536.png" alt="drawing" width="30"/> Metodología
 
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
 ---
 
 ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/48-checkmark-cross/success-green-check-mark.png" alt="drawing" width="30"/> Resultados
-
-
-
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
