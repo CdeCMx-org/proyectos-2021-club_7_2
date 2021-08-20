@@ -2,6 +2,8 @@
 
 ## <img src="https://image.flaticon.com/icons/png/512/1422/1422840.png" alt="drawing" width="30"/> .
 
+---
+
 ### Introducción
 
 Describe de qué trata tu proyecto:
@@ -10,9 +12,14 @@ Describe de qué trata tu proyecto:
 * ¿cómo se relaciona con la **ODS** asignada a tu club? 
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
-### Métodología
+---
+
+### <img src="https://image.flaticon.com/icons/png/512/190/190536.png" alt="drawing" width="30"/> Metodología
+
 
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+
+---
 
 ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/48-checkmark-cross/success-green-check-mark.png" alt="drawing" width="30"/> Resultados
 
@@ -27,23 +34,42 @@ Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
 
+---
 
 ### <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="drawing" width="30"/> Conclusiones
 
+---
 
-
-### Video
+### <img src="https://freepngimg.com/download/youtube/77718-network-youtube-computer-facebook-social-video-icon.png" alt="drawing" width="30"/> Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-### <img src="https://img.icons8.com/color/452/mexico-circular.png" alt="drawing" width="30"/> Equipo
+---
+ 
+### <img src="https://img.icons8.com/color/452/mexico-circular.png" alt="drawing" width="30"/> Equipo, equipazo.
 
-* Valeria Martinez Barco: 
+---
+* Valeria Martinez Barco:
+  - ¡Hola! Me llamo Valeria, tengo 16 años y soy del Estado de México. Me encuentro cursando el tercer semestre de bachillerato en la Escuela Nacional Preparatoria Plantel. Soy una persona que está especialmente atraída a las ciencias como la Física y la Biología; por eso me decidí a partícipe el Clubes de Ciencia México por primera vez. 
+
+---
 * Citlali Bautista Santibañez: 
+  - ...
+
+---
 * Carlos Johan Rodríguez Sánchez: 
+  - ...
+
+---
 * Eva Kryshna Mayoral Salazar: 
+  - ...
+
+---
 * Dalia Gabriela Sánchez Sánchez:  
+  - ...
+---
+
 
