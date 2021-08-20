@@ -1,10 +1,6 @@
-## Genes y obesidad en niños
+# Genes y obesidad en niños
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
-
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
-
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+## <img src="https://image.flaticon.com/icons/png/512/1422/1422840.png" alt="drawing" width="30"/> .
 
 ### Introducción
 
@@ -18,7 +14,9 @@ Describe de qué trata tu proyecto:
 
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
-### Resultados
+### <img src="https://uxwing.com/wp-content/themes/uxwing/download/48-checkmark-cross/success-green-check-mark.png" alt="drawing" width="30"/> Resultados
+
+
 
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
@@ -30,9 +28,9 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 <img src="Logo_CdeCMx.png" width=200>
 
 
-### Conclusiones
+### <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="drawing" width="30"/> Conclusiones
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
@@ -41,11 +39,11 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-### Equipo
+### <img src="https://img.icons8.com/color/452/mexico-circular.png" alt="drawing" width="30"/> Equipo
 
-* 
-* Citlali Bautista Santibañez
-* Carlos Johan Rodríguez Sánchez
-* Eva Kryshna Mayoral Salazar
-* Dalia Gabriela Sánchez Sánchez
+* Valeria Martinez Barco: 
+* Citlali Bautista Santibañez: 
+* Carlos Johan Rodríguez Sánchez: 
+* Eva Kryshna Mayoral Salazar: 
+* Dalia Gabriela Sánchez Sánchez:  
 
