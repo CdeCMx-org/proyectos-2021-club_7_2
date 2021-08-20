@@ -43,8 +43,9 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* 
+* Citlali Bautista Santibañez
+* Carlos Johan Rodríguez Sánchez
+* Eva Kryshna Mayoral Salazar
+* Dalia Gabriela Sánchez Sánchez
 
