@@ -30,8 +30,7 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 ### <img src="https://freepngimg.com/download/youtube/77718-network-youtube-computer-facebook-social-video-icon.png" alt="drawing" width="30"/> Nuestro Video
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
