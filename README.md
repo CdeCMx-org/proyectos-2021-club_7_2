@@ -69,7 +69,7 @@ Por distancia podemos decir que poco menos de 10 fármacos tienen relación dire
 ### <img src="https://freepngimg.com/download/youtube/77718-network-youtube-computer-facebook-social-video-icon.png" alt="drawing" width="30"/> Nuestro Video
 
 
- * Como parte del proyecto hemos realizado un video en donde explicamos nuestro increíble proceso, desde que conocimos a nuestros compañer@s e instructores hasta concluirlo [nuestro video](https://www.youtube.com/watch?v=-6UAblJVNYk).
+ * Como parte del proyecto hemos realizado un video en donde explicamos nuestro increíble proceso, desde que conocimos a nuestros compañer@s e instructores hasta concluirlo [nuestro video](https://youtu.be/ZfkxW0UAlT0).
 
 ---
  
