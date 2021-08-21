@@ -31,9 +31,8 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 ### <img src="https://freepngimg.com/download/youtube/77718-network-youtube-computer-facebook-social-video-icon.png" alt="drawing" width="30"/> Nuestro Video
 
 
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
- 
+ * Como parte del proyecto hemos realizado un video en donde explicamos nuestro increíble proceso, desde que conocimos a nuestros compañer@s e instructores hasta concluirlo [nuestro video](https://www.youtube.com/watch?v=-6UAblJVNYk).
+
 ---
  
 ### <img src="https://img.icons8.com/color/452/mexico-circular.png" alt="drawing" width="30"/> Equipo, equipazo.
