@@ -1,0 +1,63 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Background trait(s)","Study accession",Location
+rs12073359-<b>?</b>,"5 x 10-6",,NR,1.7,'-,(1.4-2.1),"VPS45, OTUD7B","Obesity in adult survivors of childhood cancer not exposed to cranial radiation",obesity,"childhood cancer",GCST002904,1:150036820
+rs2925630-<b>T</b>,"4 x 10-6",(EA),NR,'-,"0.0935 unit decrease",[0.054-0.133],SULT1A1,"Childhood obesity",obesity,'-,GCST009382,16:28607811
+rs2749808-<b>T</b>,"5 x 10-6",(EA),NR,'-,"0.0963 unit decrease",[0.055-0.138],LINC01440,"Childhood obesity",obesity,'-,GCST009382,20:55573956
+rs7940756-<b>A</b>,"7 x 10-6",(EA),NR,'-,"0.0903 unit decrease",[0.051-0.13],LINC02758,"Childhood obesity",obesity,'-,GCST009382,11:28676708
+rs34414412-<b>A</b>,"8 x 10-6",(EA),NR,'-,"0.2212 unit increase",[0.12-0.32],'-,"Childhood obesity",obesity,'-,GCST009382,4:63481560
+rs111434562-<b>A</b>,"8 x 10-6",(EA),NR,'-,"0.1358 unit decrease",[0.076-0.196],CACUL1,"Childhood obesity",obesity,'-,GCST009382,10:118746084
+rs13204763-<b>A</b>,"9 x 10-6",(EA),NR,'-,"0.0906 unit decrease",[0.051-0.131],'-,"Childhood obesity",obesity,'-,GCST009382,6:16940230
+rs2465028-<b>A</b>,"2 x 10-6",(Hispanic),NR,'-,"0.4432 unit increase",[0.26-0.63],'-,"Childhood obesity",obesity,'-,GCST009382,6:51282042
+rs2481599-<b>A</b>,"3 x 10-7","(East Asian)",NR,'-,"0.9141 unit increase",[0.56-1.26],FXN,"Childhood obesity",obesity,'-,GCST009382,9:69039128
+rs76734286-<b>T</b>,"1 x 10-6","(East Asian)",NR,'-,"3.5027 unit increase",[2.09-4.92],"LINC01029, RNU6-655P","Childhood obesity",obesity,'-,GCST009382,18:77996210
+rs4736065-<b>A</b>,"3 x 10-6","(East Asian)",NR,'-,"0.8968 unit increase",[0.52-1.28],'-,"Childhood obesity",obesity,'-,GCST009382,8:139245800
+rs56094641-<b>A</b>,"6 x 10-25",(EA),NR,'-,"0.2024 unit decrease",[0.16-0.24],FTO,"Childhood obesity",obesity,'-,GCST009382,16:53772541
+rs7579427-<b>A</b>,"4 x 10-18",(EA),NR,'-,"0.2194 unit increase",[0.17-0.27],"TMEM18, LINC01875","Childhood obesity",obesity,'-,GCST009382,2:631183
+rs7132908-<b>A</b>,"6 x 10-15",(EA),NR,'-,"0.1546 unit increase",[0.12-0.19],FAIM2,"Childhood obesity",obesity,'-,GCST009382,12:49869365
+rs539515-<b>A</b>,"4 x 10-14",(EA),NR,'-,"0.1872 unit decrease",[0.14-0.24],SEC16B,"Childhood obesity",obesity,'-,GCST009382,1:177919890
+rs6567160-<b>T</b>,"7 x 10-13",(EA),NR,'-,"0.1669 unit decrease",[0.12-0.21],"RNU4-17P, RPS3AP49","Childhood obesity",obesity,'-,GCST009382,18:60161902
+rs4077678-<b>C</b>,"1 x 10-11",(EA),NR,'-,"0.1306 unit decrease",[0.093-0.168],ADCY3,"Childhood obesity",obesity,'-,GCST009382,2:24899971
+rs10493544-<b>T</b>,"2 x 10-11",(EA),NR,'-,"0.1321 unit increase",[0.093-0.171],"FPGT-TNNI3K, TNNI3K","Childhood obesity",obesity,'-,GCST009382,1:74518151
+rs2206277-<b>T</b>,"3 x 10-8",(EA),NR,'-,"0.1352 unit increase",[0.087-0.183],TFAP2B,"Childhood obesity",obesity,'-,GCST009382,6:50830813
+rs114670539-<b>T</b>,"5 x 10-8",(EA),NR,'-,"0.2699 unit increase",[0.17-0.37],GPR1,"Childhood obesity",obesity,'-,GCST009382,2:206199611
+rs74583214-<b>T</b>,"5 x 10-8",(EA),NR,'-,"0.2388 unit increase",[0.15-0.32],"GAS8, URAHP","Childhood obesity",obesity,'-,GCST009382,16:90044390
+rs925494-<b>T</b>,"2 x 10-7",(EA),NR,'-,"0.1098 unit increase",[0.068-0.151],'-,"Childhood obesity",obesity,'-,GCST009382,4:45185605
+rs61765651-<b>T</b>,"4 x 10-7",(EA),NR,'-,"0.1346 unit decrease",[0.083-0.187],"RPL31P12, NEGR1","Childhood obesity",obesity,'-,GCST009382,1:72288631
+rs10835310-<b>T</b>,"5 x 10-7",(EA),NR,'-,"0.0994 unit increase",[0.061-0.138],METTL15,"Childhood obesity",obesity,'-,GCST009382,11:28334110
+rs17309874-<b>A</b>,"6 x 10-7",(EA),NR,'-,"0.111 unit increase",[0.067-0.155],BDNF-AS,"Childhood obesity",obesity,'-,GCST009382,11:27645689
+rs17639996-<b>A</b>,"8 x 10-7",(EA),NR,'-,"0.1301 unit decrease",[0.078-0.182],FHIT,"Childhood obesity",obesity,'-,GCST009382,3:61283994
+rs116765785-<b>T</b>,"1 x 10-6",(EA),NR,'-,"0.2816 unit increase",[0.17-0.39],"INO80D, PPIAP68","Childhood obesity",obesity,'-,GCST009382,2:205950177
+rs141458884-<b>C</b>,"1 x 10-6",(EA),NR,'-,"0.1433 unit increase",[0.086-0.201],CEP162,"Childhood obesity",obesity,'-,GCST009382,6:84131530
+rs2088252-<b>A</b>,"1 x 10-6",(EA),NR,'-,"0.1162 unit decrease",[0.069-0.163],PTBP2,"Childhood obesity",obesity,'-,GCST009382,1:96738735
+rs2104449-<b>T</b>,"1 x 10-6",(EA),NR,'-,"0.1165 unit increase",[0.069-0.164],"NDUFS5P2, RPL7P9","Childhood obesity",obesity,'-,GCST009382,1:96616976
+rs181263645-<b>A</b>,"1 x 10-6",(EA),NR,'-,"0.2379 unit increase",[0.14-0.33],"ZDBF2, ACER2P1","Childhood obesity",obesity,'-,GCST009382,2:206401557
+rs3735781-<b>A</b>,"2 x 10-6",(EA),NR,'-,"0.0951 unit increase",[0.056-0.134],NRG1,"Childhood obesity",obesity,'-,GCST009382,8:32767310
+rs80116460-<b>T</b>,"3 x 10-6",(EA),NR,'-,"0.2703 unit decrease",[0.16-0.38],LINC02208,"Childhood obesity",obesity,'-,GCST009382,5:118489957
+rs7950004-<b>A</b>,"4 x 10-7",(African),NR,'-,"0.6942 unit decrease",[0.43-0.96],NUP98,"Childhood obesity",obesity,'-,GCST009382,11:3689514
+rs79958840-<b>T</b>,"6 x 10-7",(African),NR,'-,"1.2013 unit increase",[0.73-1.67],'-,"Childhood obesity",obesity,'-,GCST009382,13:22450990
+rs78710621-<b>A</b>,"7 x 10-7",(African),NR,'-,"0.9478 unit increase",[0.57-1.32],"RPL35AP8, VIPR1","Childhood obesity",obesity,'-,GCST009382,3:42476055
+rs74676541-<b>T</b>,"8 x 10-7",(African),NR,'-,"0.8802 unit increase",[0.53-1.23],LINC02503,"Childhood obesity",obesity,'-,GCST009382,4:104074833
+rs114917513-<b>T</b>,"1 x 10-6",(African),NR,'-,"1.5204 unit decrease",[0.91-2.13],RBBP4P3,"Childhood obesity",obesity,'-,GCST009382,6:60889221
+rs151164573-<b>A</b>,"1 x 10-6",(African),NR,'-,"0.3634 unit decrease",[0.22-0.51],"LINC01714, RNU6-991P","Childhood obesity",obesity,'-,GCST009382,1:8276007
+rs191817094-<b>A</b>,"1 x 10-6",(African),NR,'-,"1.2155 unit increase",[0.72-1.71],"IRAIN, FAM169B","Childhood obesity",obesity,'-,GCST009382,15:98552042
+rs79754226-<b>A</b>,"1 x 10-6",(African),NR,'-,"0.5027 unit increase",[0.3-0.71],CRISPLD2,"Childhood obesity",obesity,'-,GCST009382,16:84908059
+rs2958950-<b>A</b>,"2 x 10-6",(African),NR,'-,"0.3066 unit decrease",[0.18-0.43],"RN7SKP14, TOM1L1","Childhood obesity",obesity,'-,GCST009382,17:54853060
+rs6592471-<b>A</b>,"2 x 10-6",(African),NR,'-,"0.2896 unit increase",[0.17-0.41],"CLPB, ART2BP","Childhood obesity",obesity,'-,GCST009382,11:72469306
+rs78246608-<b>A</b>,"2 x 10-6",(African),NR,'-,"0.814 unit decrease",[0.48-1.15],LINC00958,"Childhood obesity",obesity,'-,GCST009382,11:12986110
+rs61735483-<b>A</b>,"3 x 10-6",(African),NR,'-,"0.4498 unit increase",[0.26-0.64],OR51V1,"Childhood obesity",obesity,'-,GCST009382,11:5199846
+rs144512680-<b>C</b>,"3 x 10-6",(African),NR,'-,"0.6121 unit increase",[0.35-0.87],"RPL7AP28, SNHG27","Childhood obesity",obesity,'-,GCST009382,4:131830983
+rs116705787-<b>A</b>,"3 x 10-6",(African),NR,'-,"1.1412 unit decrease",[0.66-1.62],RFC3P1,"Childhood obesity",obesity,'-,GCST009382,3:36210484
+rs73407039-<b>T</b>,"4 x 10-6",(African),NR,'-,"0.4499 unit decrease",[0.26-0.64],MMP26,"Childhood obesity",obesity,'-,GCST009382,11:4932543
+rs143428611-<b>C</b>,"4 x 10-6",(African),NR,'-,"0.4969 unit increase",[0.29-0.71],'-,"Childhood obesity",obesity,'-,GCST009382,19:24436206
+rs59449492-<b>T</b>,"4 x 10-6",(African),NR,'-,"0.5547 unit decrease",[0.32-0.79],"RN7SL89P, PPA2","Childhood obesity",obesity,'-,GCST009382,4:105348132
+rs6830458-<b>C</b>,"4 x 10-6",(African),NR,'-,"1.0557 unit decrease",[0.61-1.51],CRACD,"Childhood obesity",obesity,'-,GCST009382,4:56252373
+rs6968032-<b>A</b>,"4 x 10-6",(African),NR,'-,"1.0259 unit increase",[0.59-1.46],CARD11,"Childhood obesity",obesity,'-,GCST009382,7:2962322
+rs73310815-<b>T</b>,"5 x 10-6",(African),NR,'-,"0.409 unit increase",[0.23-0.58],BMPER,"Childhood obesity",obesity,'-,GCST009382,7:33921846
+rs114899186-<b>A</b>,"5 x 10-6",(African),NR,'-,"0.5554 unit decrease",[0.32-0.79],PRDM16,"Childhood obesity",obesity,'-,GCST009382,1:3253191
+rs142600408-<b>T</b>,"5 x 10-6",(African),NR,'-,"1.0342 unit increase",[0.59-1.48],"LINC01689, LINC01684","Childhood obesity",obesity,'-,GCST009382,21:24312656
+rs74424893-<b>T</b>,"5 x 10-6",(African),NR,'-,"0.3535 unit decrease",[0.2-0.51],'-,"Childhood obesity",obesity,'-,GCST009382,2:117379926
+rs116821950-<b>T</b>,"5 x 10-6",(African),NR,'-,"0.7856 unit increase",[0.45-1.12],RNA5SP63,"Childhood obesity",obesity,'-,GCST009382,1:163600766
+rs138328529-<b>T</b>,"7 x 10-6",(African),NR,'-,"0.5595 unit decrease",[0.32-0.8],"BTF3P10, RAET1K","Childhood obesity",obesity,'-,GCST009382,6:149994874
+rs4971486-<b>G</b>,"8 x 10-8",,0.23,1.99,'-,(1.54-2.57),RNU6-649P,"Obesity in adult survivors of childhood cancer exposed to cranial radiation","response to radiation, obesity","childhood cancer",GCST002900,2:4847728
+rs12646911-<b>A</b>,"1 x 10-6",,0.78,1.89,'-,[1.45-2.44],GLRA3,"Obesity in adult survivors of childhood cancer exposed to cranial radiation","response to radiation, obesity","childhood cancer",GCST002900,4:174701439
+rs140236920-<b>?</b>,"1 x 10-7",,0.46,1.77,'-,(1.43-2.20),SNORD81,"Obesity in adult survivors of childhood cancer exposed to cranial radiation","response to radiation, obesity","childhood cancer",GCST002900,5:18186318
+rs35669975-<b>C</b>,"3 x 10-8",,0.61,1.92,'-,[1.52-2.44],FAM155A,"Obesity in adult survivors of childhood cancer exposed to cranial radiation","response to radiation, obesity","childhood cancer",GCST002900,13:107138053
