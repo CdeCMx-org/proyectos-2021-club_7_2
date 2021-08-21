@@ -14,7 +14,8 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 ### <img src="https://image.flaticon.com/icons/png/512/190/190536.png" alt="drawing" width="30"/> ¿Cómo lo hicimos?
 
-* Para desarrollar este proyecto, primero aprendimos las bases del manejo, interpretación y visualización de redes durante las sesiones, con el uso de Python y paqueterías como Pandas y Network X.  
+* Para desarrollar este proyecto, primero aprendimos las bases del manejo, interpretación y visualización de redes durante las sesiones, con el uso de Python y paqueterías como Pandas y Network X.  Creamos un proyecto de colaboración utilizando Google Colab, y todas las tardes nos reunimos a crear las redes necesarias para elegir una lista de genes y fármacos que interactuan.
+* Dentro de esto, determinamos distintas propiedades de los integrantes de estas redes, los más relevantes, aquellos con mayor número de interacciones a partir de la representación de gráficos como el siguiente.
 
 ---
 
@@ -47,11 +48,11 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 ---
 * Carlos Johan Rodríguez Sánchez: 
-  - ...
+  - Hola, mi nombre es Johan, nací en San Juan Bautista Valle Nacional, Oaxaca. Esta es mi segunda edición en Clubes de Ciencia, una experiencia completamente distinta ya que soy estudiante de Medicina y nunca esperé integrarme al mundo de la programación. He aprendido mucho de nuestros instructores y de nuestro equipo, estoy seguro de que con este conocimiento ahora tendré una nueva forma de resolver problemas en mi carrera.
 
 ---
 * Eva Kryshna Mayoral Salazar: 
-  - ...
+  - Hola, mi nombre es Eva Kryshna Mayoral Salazar, soy de Huajuapan de León, Oaxaca, actualmente termine la preparatoria,  y entre a esta edición de clubes de México debido a que a raíz de la pandemia pude prestarle más atención a los problemas que tenemos como sociedad, sin embargo no los terminaba de entender, y en clubes de ciencia con ayuda de los instructores pude comprender un poco más sobre uno de los principales problemas en México, que es la obesidad, y ahora creo que estoy un poco más preparada para ayudar y concientizar.
 
 ---
 * Dalia Gabriela Sánchez Sánchez:  
