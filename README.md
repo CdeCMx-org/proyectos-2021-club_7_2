@@ -14,6 +14,8 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 ### <img src="https://image.flaticon.com/icons/png/512/190/190536.png" alt="drawing" width="30"/> ¿Cómo lo hicimos?
 
+ * Dentro de nuestro curso, estudiamos el término **GWAS** *(Genome Wide Association Study)*, en Español **Estudio de Asociación de Genoma Completo** , ¿Qué tiene de importante comprender esto? Nos permite asociar **variaciones genéticas con distintas enfermedades**, se emplean muchas muestras de diferentes individuos para encontrar patrones y definir marcadores genéticos, nos permite encontrar encontes estrategias de prevención y tratamiento de las patologías. Entonces, este proyecto emplea datos de **GWAS** que nos enseñaron como manipular con la programación.
+
 * Para desarrollar este proyecto, primero aprendimos las bases del manejo, interpretación y visualización de redes durante las sesiones, con el uso de Python y paqueterías como Pandas y Network X.  Creamos un proyecto de colaboración utilizando Google Colab, y todas las tardes nos reunimos a crear las redes necesarias para elegir una lista de genes y fármacos que interactuan.
 * Dentro de esto, determinamos distintas propiedades de los integrantes de estas redes, los más relevantes, aquellos con mayor número de interacciones a partir de la representación de gráficos como el siguiente.
 
@@ -67,9 +69,10 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 ### <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="drawing" width="30"/> Conclusiones
 
 
-<img src="nx/histograma004.png" alt="Interacción final" style="height: 500px; width:900px;"/>
+<img src="nx/histograma004.png" alt="Interacción final" style="height: 400px; width:900px;"/>
 
 * Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que pueden ayudarnos a encontrar nuevas rutas terapéuticas para el tratamiento de la obesidad infantil, estos son: 
+ 
  1. Monotungstato de Adenosina (Adenosine monotungstate, FHIT);
   
  2. Fumarato ferroso (ferrous fumarate, FXN);
@@ -105,8 +108,11 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
   - Hola, mi nombre es Eva Kryshna Mayoral Salazar, soy de Huajuapan de León, Oaxaca, actualmente termine la preparatoria,  y entre a esta edición de clubes de México debido a que a raíz de la pandemia pude prestarle más atención a los problemas que tenemos como sociedad, sin embargo no los terminaba de entender, y en clubes de ciencia con ayuda de los instructores pude comprender un poco más sobre uno de los principales problemas en México, que es la obesidad, y ahora creo que estoy un poco más preparada para ayudar y concientizar.
 
 ---
+
 * Dalia Gabriela Sánchez Sánchez:  
-  - ¡Hola! Soy Dalia, tengo 22 años, soy oaxaqueña y estudio el quinto año de la carrera de medicina en la UABJO, en Oaxaca. Soy ya una veterana de Clubes de Ciencia, puesto que desde mi primer edición a los 16 años, quedé enamorada de la ciencia y del programa, espero el proyecto de esta edición les despierte tanto interés como a nosotros. 
+ 
+ - ¡Hola! Soy Dalia, tengo 22 años, soy oaxaqueña y estudio el quinto año de la carrera de medicina en la UABJO, en Oaxaca. Soy ya una veterana de Clubes de Ciencia, puesto que desde mi primer edición a los 16 años, quedé enamorada de la ciencia y del programa, espero el proyecto de esta edición les despierte tanto interés como a nosotros. 
+
 ---
 
 
