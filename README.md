@@ -39,7 +39,7 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 * El top 5 de los nodos con mayores interacciones en esta red (PPI) son: 1.-MEOX2; 2.-CYSRT1; 3.-GOLGA2; 4.-LNX1; 5.-KRTAP10-8
 
-<img src="https://github.com/CdeCMx-org/proyectos-2021-club_7_2/blob/main/nx/histograma001.png" alt="Red de interacción" style="height: 80px; width:80px;"/>
+<img src="nx/histograma001.png" alt="Red de interacción" style="height: 80px; width:80px;"/>
 
 * El top 5 de los nodos con mayores interacciones en esta red (PFI) son: 1.-Fostamatinib; 2.-Artenimol; 3.-Copper 4.-NADH; 5.-CDK2
 
