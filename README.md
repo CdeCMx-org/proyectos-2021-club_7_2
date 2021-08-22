@@ -59,7 +59,7 @@ Por distancia podemos decir que poco menos de 10 fármacos tienen relación dire
 ### <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="drawing" width="30"/> Conclusiones
 
 
-<img src="https://github.com/CdeCMx-org/proyectos-2021-club_7_2/blob/main/nx/histograma004.png" alt="Red de interacción" style="height: 80px; width:80px;"/>
+<img src="https://github.com/CdeCMx-org/proyectos-2021-club_7_2/blob/main/nx/histograma004.png" alt="Interacción final" style="height: 80px; width:80px;"/>
 
 * Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que puedan ser utiles en la obesidad infantil son: 1.-Monotungstato de Adenosina (Adenosine monotungstate, FHIT);2.-Fumarato ferroso (ferrous fumarate, FXN);3.-Artenimol(FTO)
 
