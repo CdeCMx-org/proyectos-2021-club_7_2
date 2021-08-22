@@ -19,8 +19,6 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
  * En este gráfico podemos observar la red en la que las lineas conectando cada uno de los elementos representan una interación bidireccional con otros elementos, es decir, la interacción entre fármacos y genes.
  
- * 
-
 ---
 
 ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/48-checkmark-cross/success-green-check-mark.png" alt="drawing" width="30"/> Resultados
@@ -37,7 +35,12 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 <img src="nx/network.png" alt="Red de interacción" style="height: 700px; width:800px;"/>
 
-* El top 5 de los nodos con mayores interacciones en esta red (PPI) son: 1.-MEOX2; 2.-CYSRT1; 3.-GOLGA2; 4.-LNX1; 5.-KRTAP10-8
+* El top 5 de los nodos con mayores interacciones en esta red (PPI) son: 
+**1.-MEOX2; 
+2.-CYSRT1; 
+3.-GOLGA2; 
+4.-LNX1; 
+5.-KRTAP10-8**
 
 <img src="nx/histograma001.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
@@ -56,7 +59,10 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 <img src="nx/histograma004.png" alt="Interacción final" style="height: 500px; width:900px;"/>
 
-* Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que puedan ser utiles en la obesidad infantil son: 1.-Monotungstato de Adenosina (Adenosine monotungstate, FHIT);2.-Fumarato ferroso (ferrous fumarate, FXN);3.-Artenimol(FTO)
+* Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que pueden ayudarnos a encontrar nuevas rutas terapéuticas para el tratamiento de la obesidad infantil, estos son: 
+  **1.-Monotungstato de Adenosina (Adenosine monotungstate, FHIT);
+  **2.-Fumarato ferroso (ferrous fumarate, FXN);**
+  **3.-Artenimol(FTO)**
 
 
 ---
