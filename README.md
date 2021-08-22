@@ -23,32 +23,42 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/48-checkmark-cross/success-green-check-mark.png" alt="drawing" width="30"/> Resultados
 
-* Red proteína-proteína
+* Red **proteína-proteína**
 
 <img src="nx/red proteina proteina.png" alt="Red de interacción" style="height: 500px; width:500px;"/>
 
-* Red de proteínas-fármacos
+* Red **de proteínas-fármacos**
 
 <img src="nx/red farmacos.png" alt="Red de interacción" style="height: 500px; width:500px;"/>
 
-* En este proyecto logramos encontrar tres propuestas de fármacos, proteínas y genes más relevantes en la obesidad infantil
+* En este proyecto logramos encontrar **tres propuestas de fármacos, proteínas y genes más relevantes en la obesidad infantil**
 
 <img src="nx/network.png" alt="Red de interacción" style="height: 700px; width:800px;"/>
 
-* El top 5 de los nodos con mayores interacciones en esta red (PPI) son: 
-**1.-MEOX2; 
-2.-CYSRT1; 
-3.-GOLGA2; 
-4.-LNX1; 
-5.-KRTAP10-8**
+* El top 5 de los nodos con mayores interacciones en esta red de **interacciones entre proteínas**, *(PPI), que significa "Protein-Protein interactions"* son: 
+  1. MEOX2; 
+  2. CYSRT1; 
+  3. GOLGA2; 
+  4. LNX1; 
+  5. KRTAP10-8
 
 <img src="nx/histograma001.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
-* El top 5 de los nodos con mayores interacciones en esta red (PFI) son: 1.-Fostamatinib; 2.-Artenimol; 3.-Copper 4.-NADH; 5.-CDK2
+* El top 5 de los nodos con mayores interacciones en esta red de **interacciones entre fármacos y proteínas,** *(PDI), que significa "Protein-Drug-Interactions"* son: 
+ 1. Fostamatinib; 
+ 2. Artenimol; 
+ 3. Copper 
+ 4. NADH; 
+ 5. CDK2
 
 <img src="nx/histograma002.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
-* El top 5 de los nodos con mayores interacciones en esta red combinada (G_Combined_Networks) son: 1.-MEOX2; 2.-CYSRT1; 3.-GOLGA2; 4.-LNX1; 5.-KRTAP10-8.
+* El top 5 de los nodos con mayores interacciones en esta red combinada (G_Combined_Networks) son: 
+ 1. MEOX2; 
+ 2. CYSRT1; 
+ 3. GOLGA2; 
+ 4. LNX1; 
+ 5. KRTAP10-8.
 
 * Por distancia podemos decir que poco menos de 10 fármacos tienen relación directa con un gen/proteína por lo que podemos decidir entre alguno de estos, aunado a que al mismo tiempo estos genes proteínas están relacionados con muchos otros más.
 
@@ -60,9 +70,11 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 <img src="nx/histograma004.png" alt="Interacción final" style="height: 500px; width:900px;"/>
 
 * Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que pueden ayudarnos a encontrar nuevas rutas terapéuticas para el tratamiento de la obesidad infantil, estos son: 
-  **1.-Monotungstato de Adenosina (Adenosine monotungstate, FHIT);
-  **2.-Fumarato ferroso (ferrous fumarate, FXN);**
-  **3.-Artenimol(FTO)**
+ 1. Monotungstato de Adenosina (Adenosine monotungstate, FHIT);
+  
+ 2. Fumarato ferroso (ferrous fumarate, FXN);
+  
+ 3. Artenimol(FTO)
 
 
 ---
