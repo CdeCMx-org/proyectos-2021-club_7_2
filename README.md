@@ -27,27 +27,27 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 * Red proteína-proteína
 
-<img src="https://github.com/CdeCMx-org/proyectos-2021-club_7_2/blob/main/nx/red%20proteina%20proteina.png" alt="Red de interacción" style="height: 80px; width:80px;"/>
+<img src="nx/red proteina proteina.png" alt="Red de interacción" style="height: 500px; width:500px;"/>
 
 * Red de proteínas-fármacos
 
-<img src="https://github.com/CdeCMx-org/proyectos-2021-club_7_2/blob/main/nx/red%20farmacos.png" alt="Red de interacción" style="height: 80px; width:80px;"/>
+<img src="nx/red farmacos.png" alt="Red de interacción" style="height: 500px; width:500px;"/>
 
 * En este proyecto logramos encontrar tres propuestas de fármacos, proteínas y genes más relevantes en la obesidad infantil
 
-<img src="nx/network.png" alt="Red de interacción" style="height: 200px; width:200px;"/>
+<img src="nx/network.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
 * El top 5 de los nodos con mayores interacciones en esta red (PPI) son: 1.-MEOX2; 2.-CYSRT1; 3.-GOLGA2; 4.-LNX1; 5.-KRTAP10-8
 
-<img src="nx/histograma001.png" alt="Red de interacción" style="height: 200px; width:200px;"/>
+<img src="nx/histograma001.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
 * El top 5 de los nodos con mayores interacciones en esta red (PFI) son: 1.-Fostamatinib; 2.-Artenimol; 3.-Copper 4.-NADH; 5.-CDK2
 
-<img src="nx/histograma002.png" alt="Red de interacción" style="height: 200px; width:200px;"/>
+<img src="nx/histograma002.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
 * Graficamos el subgrafo de la red combinada acoplada a la lsita de genes que está relacionados con la obesidad infantil.
 
-<img src="nx/network.png" alt="Red de interacción" style="height: 200px; width:200px;"/>
+<img src="nx/network.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
 * El top 5 de los nodos con mayores interacciones en esta red combinada (G_Combined_Networks) son: 1.-MEOX2; 2.-CYSRT1; 3.-GOLGA2; 4.-LNX1; 5.-KRTAP10-8.
 
@@ -58,7 +58,7 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 ### <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="drawing" width="30"/> Conclusiones
 
 
-<img src="nx/histograma004.png" alt="Interacción final" style="height: 200px; width:200px;"/>
+<img src="nx/histograma004.png" alt="Interacción final" style="height: 500px; width:600px;"/>
 
 * Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que puedan ser utiles en la obesidad infantil son: 1.-Monotungstato de Adenosina (Adenosine monotungstate, FHIT);2.-Fumarato ferroso (ferrous fumarate, FXN);3.-Artenimol(FTO)
 
