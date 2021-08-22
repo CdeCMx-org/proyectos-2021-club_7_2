@@ -58,7 +58,7 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 ### <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="drawing" width="30"/> Conclusiones
 
 
-<img src="nx/histograma004.png" alt="Interacción final" style="height: 500px; width:800px;"/>
+<img src="nx/histograma004.png" alt="Interacción final" style="height: 500px; width:900px;"/>
 
 * Con todo lo anterior podemos decir que nuestros tres candidatos para fármacos que puedan ser utiles en la obesidad infantil son: 1.-Monotungstato de Adenosina (Adenosine monotungstate, FHIT);2.-Fumarato ferroso (ferrous fumarate, FXN);3.-Artenimol(FTO)
 
@@ -68,7 +68,7 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 ### <img src="https://freepngimg.com/download/youtube/77718-network-youtube-computer-facebook-social-video-icon.png" alt="drawing" width="30"/> Nuestro Video
 
 
- * Como parte del proyecto hemos realizado un video en donde explicamos nuestro increíble proceso, desde que conocimos a nuestros compañer@s e instructores hasta concluirlo [nuestro video](https://youtu.be/ZfkxW0UAlT0).
+ * Como parte del proyecto hemos realizado un video en donde explicamos nuestro increíble proceso, desde que conocimos a nuestros compañer@s e instructores hasta concluirlo [nuestro video](https://youtu.be/S7fpdukg8OE).
 
 ---
  
