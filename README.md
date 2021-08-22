@@ -45,10 +45,6 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 <img src="nx/histograma002.png" alt="Red de interacción" style="height: 500px; width:600px;"/>
 
-* Graficamos el subgrafo de la red combinada acoplada a la lsita de genes que está relacionados con la obesidad infantil.
-
-<img src="nx/network.png" alt="Red de interacción" style="height: 700px; width:800px;"/>
-
 * El top 5 de los nodos con mayores interacciones en esta red combinada (G_Combined_Networks) son: 1.-MEOX2; 2.-CYSRT1; 3.-GOLGA2; 4.-LNX1; 5.-KRTAP10-8.
 
 * Por distancia podemos decir que poco menos de 10 fármacos tienen relación directa con un gen/proteína por lo que podemos decidir entre alguno de estos, aunado a que al mismo tiempo estos genes proteínas están relacionados con muchos otros más.
