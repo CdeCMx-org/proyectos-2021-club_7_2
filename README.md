@@ -33,7 +33,13 @@ Con los recursos de programación de Python, y con la guía de nuestros instruct
 
 <img src="nx/red farmacos.png" alt="Red de interacción" style="height: 500px; width:500px;"/>
 
-* En este proyecto logramos encontrar **tres propuestas de fármacos, proteínas y genes más relevantes en la obesidad infantil**
+* En este proyecto logramos encontrar **tres propuestas de fármacos, proteínas y genes más relevantes en la obesidad infantil**. En la siguiente red, se representan con los colores:
+
+ * Verde: Genes
+ * Azul: Proteínas
+ * Amarillo: Fármacos
+
+* Y cada una de las lineas nos indica que hay una interacción entre estos elementos, a partir de esta red podemos estimar muchas más variables, como cual es el elemento con el que hay mas interacciones en común, cuál está más asociado e incluso, ordenarlos de mayor a menor grado de importancia o patrón.
 
 <img src="nx/network.png" alt="Red de interacción" style="height: 700px; width:800px;"/>
 
